@@ -3,7 +3,7 @@
     <div class="content-wrapper">
         <div class="container">
             <section class="content-header">
-                <h1>Dashboard</h1>
+                <h1>Sales Reports</h1>
             </section>
 
             <section class="content">

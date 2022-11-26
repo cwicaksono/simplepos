@@ -1,5 +1,5 @@
 <?php
-include('koneksi.php');
+include('config.php');
 if($_POST){
     // TODO - sanitation post data
     // TODO - cek username dan passwordnya
